@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://oyyz2010113.github.io</id>
+    <title>oyyz的小站</title>
+    <updated>2023-05-18T10:24:30.852Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://oyyz2010113.github.io"/>
+    <link rel="self" href="https://oyyz2010113.github.io/atom.xml"/>
+    <subtitle>thin dog little sheep tree 小羊咩</subtitle>
+    <logo>https://oyyz2010113.github.io/images/avatar.png</logo>
+    <icon>https://oyyz2010113.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, oyyz的小站</rights>
+    <entry>
+        <title type="html"><![CDATA[转载 5、15]]></title>
+        <id>https://oyyz2010113.github.io/post/zhuan-zai-515/</id>
+        <link href="https://oyyz2010113.github.io/post/zhuan-zai-515/">
+        </link>
+        <updated>2023-05-18T10:18:50.000Z</updated>
+        <content type="html"><![CDATA[<p>欧阳**经过不断试错、搜题，终于在第三次得到NOIP202？年普及组77分的好成绩。😆<br>
+pig继续练习选择题，依旧错4-2题。😓<br>
+蒋东西丢了😭<br>
+姚坐最后一排依旧通过极域控制😁，成功在欧阳未保存某样东西的情况下关机😨。<br>
+欧阳大怒，发誓搞掉极域，并下360全家桶，失败😭。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沝]]></title>
+        <id>https://oyyz2010113.github.io/post/zhui/</id>
+        <link href="https://oyyz2010113.github.io/post/zhui/">
+        </link>
+        <updated>2023-05-17T10:19:31.000Z</updated>
+        <content type="html"><![CDATA[<p>进制转换第二期</p>
+<p>便携方法</p>
+<p>🕶二进制转八进制和十六进制<br>
+2转8<br>
+三位一转 例子：、<br>
+101    100   010<br>
+转八进制<br>
+5       4       2<br>
+🕶<br>
+2转16<br>
+四位一转 例子：<br>
+1001    1111<br>
+转十六进制<br>
+9          f</p>
+<p>可能有人不知道f是什么意思<br>
+这里科普一下。从10开始，比10更大的数用字母表示<br>
+比如11用a，12用b……</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[水]]></title>
+        <id>https://oyyz2010113.github.io/post/shui/</id>
+        <link href="https://oyyz2010113.github.io/post/shui/">
+        </link>
+        <updated>2023-05-16T13:10:21.000Z</updated>
+        <content type="html"><![CDATA[<p>如何进行进制转换？这是个让人头疼的问题，现在我来介绍几种方法 第一期</p>
+<p>十进制转二进制<br>
+方法为：十进制数除2取余法，即十进制数除2，余数为权位上的数，得到的商值继续除2，依此步骤继续向下运算直到商为0为止。</p>
+<p>例如：把十进制数 48 转换为 二进制数：如下：<img src="https://oyyz2010113.github.io/post-images/1684242970241.jpg" alt="" loading="lazy"></p>
+<p>🕶二进制转十进制</p>
+<p>方法为：把二进制数按权展开、相加即得十进制数。</p>
+<p>如二进制数101011<br>
+1            0                  1               0              1             1<br>
+1<em>2^5 +0</em>2<sup>4+1*2</sup>3+0<em>2<sup>2+1*2</sup>1+1</em>2^0<br>
+=32+8+2+1<br>
+=43</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[炫耀一下]]></title>
+        <id>https://oyyz2010113.github.io/post/xuan-yao-yi-xia/</id>
+        <link href="https://oyyz2010113.github.io/post/xuan-yao-yi-xia/">
+        </link>
+        <updated>2023-05-16T13:05:03.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://oyyz2010113.github.io/post-images/1684242316814.png" alt="" loading="lazy">31抽中的awa</p>
+]]></content>
+    </entry>
+</feed>
